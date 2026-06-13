@@ -114,7 +114,7 @@ function Header() {
       </nav>
 
       <MagneticLink className="header-cta" href="#contact">
-        <span>Start a project</span>
+        <span>Email me</span>
         <span className="arrow">↗</span>
       </MagneticLink>
     </header>
@@ -289,20 +289,14 @@ function Contact() {
         <p className="eyebrow reveal">Have something in mind?</p>
         <a
           className="contact-link reveal"
-          href="https://harishkandavell.xyz/"
-          target="_blank"
-          rel="noreferrer"
+          href="mailto:harishkan999@gmail.com"
         >
           <span>Let’s make it</span>
           <span>real.</span>
         </a>
         <div className="contact-meta reveal">
-          <a
-            href="https://harishkandavell.xyz/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            harishkandavell.xyz ↗
+          <a href="mailto:harishkan999@gmail.com">
+            harishkan999@gmail.com
           </a>
           <div>
             <a
